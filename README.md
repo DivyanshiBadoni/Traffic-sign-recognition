@@ -30,7 +30,6 @@ This project uses a trained Convolutional Neural Network (CNN) to classify traff
 
 ## 📁 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DivyanshiBadoni/Traffic-sign-recognition.git
-   cd Traffic-sign-recognition
+cd "c:\Users\welcome\Downloads\Traffic_sign_recognition-main\Traffic_sign_recognition-main"
+pip install tensorflow pillow numpy
+python gui.py
