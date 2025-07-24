@@ -31,5 +31,7 @@ This project uses a trained Convolutional Neural Network (CNN) to classify traff
 ## 📁 How to Run
 
 cd "c:\Users\welcome\Downloads\Traffic_sign_recognition-main\Traffic_sign_recognition-main"
+
 pip install tensorflow pillow numpy
+
 python gui.py
